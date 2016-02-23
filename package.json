@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/victorperin/swagger-express-example/issues"
   },
-  "homepage": "https://github.com/victorperin/swagger-express-example#readme"
+  "homepage": "https://github.com/victorperin/swagger-express-example#readme",
+  "devDependencies": {
+    "eslint": "^2.2.0",
+    "eslint-config-google": "^0.4.0",
+    "eslint-config-xo": "^0.10.1"
+  },
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
